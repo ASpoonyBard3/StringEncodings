@@ -25,7 +25,7 @@ namespace StringEncodings
             {
                 Console.WriteLine("|" +pubDate + "         | " +title+ "                 |  " +authors+"               |");
             }
-            
+            Console.ReadLine();   
         }
     }
 
